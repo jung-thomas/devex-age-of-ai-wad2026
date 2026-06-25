@@ -1,16 +1,13 @@
 ---
 theme: '@jungsap/slidev-theme-sap'
-title: Evolving the Developer Experience in the Age of AI
 info: |
   WeAreDevelopers World Congress 2026 — Friday, July 10, Mainstage, Berlin.
   Thomas Jung & Shilpa Shankar, SAP Developer Advocacy.
----
-
----
 layout: cover
-variant: a
+variant: l
+image: /covers/Kasimir.jpg 
 title: Evolving the Developer Experience in the Age of AI
-presenter: thomas-jung
+presenters: [thomas-jung, shilpa-shankar]
 event: WeAreDevelopers World Congress 2026
 date: 2026-07-10
 classification: PUBLIC
@@ -25,6 +22,24 @@ title: Your speakers
 <Bio presenter="thomas-jung" />
 
 <Bio presenter="shilpa-shankar" />
+
+---
+layout: team-roster
+title: Meet the SAP Developer Advocates
+team: dev-advocates
+columns: 6
+classification: PUBLIC
+---
+
+A global team of community-focused engineers who run workshops, write
+tutorials, build samples, and speak at SAP events worldwide. Scan any
+QR to reach that advocate's profile.
+
+<!--
+Speaker notes: quick beat — "the two of us are on stage, but the
+work we'll show today is the team's." Don't read names; just gesture
+at the roster and move on within ~30 seconds.
+-->
 
 ---
 layout: agenda
