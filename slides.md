@@ -14,6 +14,7 @@ presenter: thomas-jung
 event: WeAreDevelopers World Congress 2026
 date: 2026-07-10
 classification: PUBLIC
+partnerLogo: /partners/wad-logo.svg
 ---
 
 ---
