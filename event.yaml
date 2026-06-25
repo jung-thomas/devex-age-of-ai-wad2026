@@ -5,3 +5,7 @@ date: 2026-07-10
 venue: Mainstage, Berlin
 hashtag: '#WeAreDevs'
 defaultPresenter: thomas-jung
+# Deck-wide classification (v0.5.2+). Layouts use this when a slide doesn't
+# set its own `classification:` frontmatter. PUBLIC is correct for talks at
+# external community events.
+classification: PUBLIC
