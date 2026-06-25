@@ -3,6 +3,13 @@ theme: '@jungsap/slidev-theme-sap'
 info: |
   WeAreDevelopers World Congress 2026 — Friday, July 10, Mainstage, Berlin.
   Thomas Jung & Shilpa Shankar, SAP Developer Advocacy.
+# Browser tab + share-card title — `%s` is the slide's title; default
+# template appends " - Slidev" which we don't want for a branded deck.
+titleTemplate: '%s'
+# Use the SAP brand mark as the favicon. The path resolves through the
+# theme's public/ assets (served by the theme's vite-plugin in dev,
+# copied into dist/ on build).
+favicon: /logos/logo-sap-primary.svg
 layout: cover
 variant: l
 image: /covers/Kasimir.jpg 
