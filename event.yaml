@@ -1,0 +1,7 @@
+# Per-deck metadata. Authoritative event facts live here so every slide
+# can reference them consistently (date, hashtag, default presenter).
+name: WeAreDevelopers World Congress 2026
+date: 2026-07-10
+venue: Mainstage, Berlin
+hashtag: '#WeAreDevs'
+defaultPresenter: thomas-jung
