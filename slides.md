@@ -65,17 +65,42 @@ title: The DevEx gap in the AI era
 ---
 
 ---
-layout: title-text
-title: Generic AI isn't enough
+layout: text-with-icons
+title: Who are we writing for now?
+items:
+  - icon: write-new-document
+    title: Shape content for AI
+    description: So the AIs developers ask first answer accurately about SAP.
+  - icon: e-learning
+    title: Deliver content through AI
+    description: So when developers come to us, they get adaptive, contextual help.
+  - icon: overview-chart
+    title: Close the loop
+    description: What AIs get wrong about SAP becomes our next content priority and what AI tells us about the way developers work informs our content decisions.
 ---
 
-Enterprise developers don't need *another* chat window. They need
-intelligence that understands their context: the codebase, the
-data model, the deployment target, the compliance constraints.
-
 <!--
-Speaker notes: lead with the friction story — every dev advocate
-has heard "ChatGPT is great but it doesn't know our system."
+Early in 2026 we asked ourselves a question that felt almost taboo:
+are developers still our primary audience — or is it the AI they
+ask *before* they ever open a doc?
+
+We landed on both — and that split the work in two.
+
+First, shape our content for AI consumption: when a developer asks
+ChatGPT, Copilot, or Claude about SAP — wherever they ask — the
+answer should be accurate, current, and grounded in our reality.
+
+Second, deliver more of our content through AI: when a developer
+does come to us directly, they get adaptive, contextual help —
+not a static tutorial page from 2019.
+
+Third, close the loop: instrument what the AIs answer about SAP,
+treat the wrong answers as a content backlog, and feed corrections
+back upstream. This is the bridge to the "Listening at scale"
+section later in the deck.
+
+Be candid here about how uncomfortable that debate was. The three
+tiles are the spine for the rest of the talk — pause on them.
 -->
 
 ---
