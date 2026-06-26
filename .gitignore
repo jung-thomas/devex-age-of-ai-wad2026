@@ -6,3 +6,6 @@ dist/
 
 # Slidev export artifacts
 *.pdf
+
+# Local scratch directory: screenshots, diagnostic outputs, ad-hoc notes.
+.scratch/
