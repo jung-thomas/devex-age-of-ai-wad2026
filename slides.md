@@ -29,9 +29,9 @@ layout: title-text
 title: Your speakers
 ---
 
-<Bio presenter="thomas-jung" />
+<Bio presenter="thomas-jung" compact />
 
-<Bio presenter="shilpa-shankar" />
+<Bio presenter="shilpa-shankar" compact />
 
 ---
 layout: team-roster
